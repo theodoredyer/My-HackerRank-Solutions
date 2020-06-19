@@ -1,2 +1,2 @@
-# My-HackerRank-Solutions
- Solutions to HackerRank Practice Quesitons 
+# Question Prompts Posted here:
+https://www.hackerrank.com/interview/interview-preparation-kit/warmup/challenges
