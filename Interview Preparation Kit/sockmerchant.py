@@ -21,4 +21,5 @@ def sockMerchant(n, ar):
             
     return pairs
 
+# Used for local testing
 print(sockMerchant(9, [10, 20, 20, 10, 10, 30, 5, 7, 7, 9, 10, 11]))
