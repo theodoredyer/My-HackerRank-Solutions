@@ -1,2 +1,1 @@
-# Question Prompts Posted here:
-https://www.hackerrank.com/interview/interview-preparation-kit/warmup/challenges
+## Putting this on a pause for now while I'm learning DS concepts
